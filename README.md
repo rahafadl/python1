@@ -1,4 +1,3 @@
-إليك الشرح منسقًا بشكل جميل مع بعض التفاصيل والتنسيقات الجذابة باستخدام Markdown:
 
 # Python Advanced Topics: Dates, Numbers, Strings, and Functions
 
